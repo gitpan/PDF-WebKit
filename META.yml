@@ -21,8 +21,9 @@ no_index:
 recommends:
   XML::LibXML: 0
 requires:
+  IPC::Run: 0
   Moose: 0
   perl: 5.8.8
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.5
+version: 0.7
